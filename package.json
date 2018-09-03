@@ -1,0 +1,12 @@
+{
+  "name": "multiply_outer",
+  "version": "0.1.0",
+  "repo": "hcnn/multiply_outer",
+  "description": "Outer Product multiplication of two vectors",
+  "keywords": ["outer product", "vector multiplication"],
+  "license": "MIT",
+  "src": ["multiply_outer.c", "multiply_outer.h"],
+  "dependencies": {
+    "hcnn/rowidx": "0.1.0"
+  }
+}
